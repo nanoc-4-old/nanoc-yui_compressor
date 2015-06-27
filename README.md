@@ -1,19 +1,3 @@
-[![Build Status](https://travis-ci.org/nanoc/nanoc-yui_compressor.png)](https://travis-ci.org/nanoc/nanoc-yui_compressor)
-[![Code Climate](https://codeclimate.com/github/nanoc/nanoc-yui_compressor.png)](https://codeclimate.com/github/nanoc/nanoc-yui_compressor)
-[![Coverage Status](https://coveralls.io/repos/nanoc/nanoc-yui_compressor/badge.png?branch=master)](https://coveralls.io/r/nanoc/nanoc-yui_compressor)
+This repository was part of the initial attempt at writing nanoc 4. That attempt did not go as initially planned, and was cancelled mid May 2015.
 
-# nanoc-yui_compressor
-
-This provides a [YUICompressor](http://rubydoc.info/gems/yuicompressor) filter for [nanoc](http://nanoc.ws).
-
-## Installation
-
-`gem install nanoc-yui_compressor`
-
-## Usage
-
-```ruby
-filter :yui_compressor
-```
-
-This method optionally takes options to pass directly to the YUICompressor gem.
+Do not despair! There is a _true_ nanoc 4, and it lives in the [nanoc/nanoc repository](http://github.com/nanoc/nanoc). For information about nanoc 4 and how to upgrade, consult the [nanoc 4 upgrade guide](http://nanoc.ws/docs/nanoc-4-upgrade-guide/).
